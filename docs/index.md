@@ -10,19 +10,20 @@ The application's styling is powered by Tailwind CSS.
 ## DEMO
 
 ### Home page
-![home.png](assets/images/home.png)
+![home.png](https://raw.githubusercontent.com/chunlinwang/blockchain-wallet-connector/assets/images/home.png)
 
 ### Accounts list
-![account.png](assets/images/account.png)
+![account.png](https://raw.githubusercontent.com/chunlinwang/blockchain-wallet-connector/assets/images/account.png)
 
 ### Navigate to the account page by clicking.
-![account.png](assets/images/clic-account.png)
+![account.png](https://raw.githubusercontent.com/chunlinwang/blockchain-wallet-connector/assets/images/clic-account.png)
 
 ### Send transaction with success.
-![send-transaction-success.png](assets/images/send-transaction-success.png)
+![send-transaction-success.png](https://raw.githubusercontent.com/chunlinwang/blockchain-wallet-connector/assets/images/send-transaction-success.png)
 
 ### Send transaction with error.
-![send-transaction-error.png](assets/images/send-transaction-error.png)
+![send-transaction-error.png](https://raw.githubusercontent.com/chunlinwang/blockchain-wallet-connector/assets/images/send-transaction-error.png)
+
 
 ## Getting Started
 
@@ -31,7 +32,7 @@ First, run the development server:
 ```bash
 cp .env.local.example .env.local
 ```
-Set the NEXT_PUBLIC_WC_PROJECT_ID 
+Set the NEXT_PUBLIC_WC_PROJECT_ID
 
 ```bash
 npm run dev
